@@ -1,12 +1,12 @@
 # Aurees Git Tutorial
 
-This is a extremely quick tutorial showing you how to connect to and push/pull updates to and from git repos using Aurees. No commandline necessary!
+This is a extremely quick tutorial showing you how to connect to and push/pull updates to and from git repos using Aurees. No commandline necessary! With Git, you can store multiple versions of files, instantly get updates from other team members, and even be able to try out or view what other developers have worked on! There's even an automatic version history keeper that will give developers the ability to roll back to an older version of the project in case of emergencies.
 
 ## 1: Make an account on Gitlab
 
 For now, I decided to use gitlab.com because it has free private projects, compared to github's paid private option.
 
-Make an account at https://gitlab.com/ and confirm with the link sent to your email. **IMPORTANT NOTE:** The email you use will be to anyone else part of the project, so keep that in mind.
+Make an account at https://gitlab.com/ and confirm with the link sent to your email. **IMPORTANT NOTE:** The email you use will be seen by anyone else part of the project, so keep that in mind!
 
 Once that's done, it's time to install and configure Aurees!
 

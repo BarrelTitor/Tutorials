@@ -66,3 +66,9 @@ On the next screen, make sure all the files are checked and hit the commit & pus
 Wait for it to finish uploading by watching the output box here and then you're done!
 
 ![](http://i.imgur.com/bRK396s.png)
+
+If your repo is outdated because someone has recently pushed a new update, you can pull the new files by clicking here:
+
+![](http://i.imgur.com/kkMxqmP.png)
+
+And that's it! Just pull whenever there's a new update, commit changes once you're ready, and push them to the repo. Now everyone will constantly be up to speed!

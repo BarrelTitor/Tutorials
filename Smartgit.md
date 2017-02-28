@@ -6,7 +6,9 @@ This is a quick and dirty guide to making an account, installing the program, an
 
 For now, I decided to use gitlab.com because it has free private projects, compared to github's paid private option.
 
-Make an account at https://gitlab.com/ and confirm with the link sent to your email. Once you're done, navigate to your settings and select the account option shown here ![here](http://i.imgur.com/bezbCXc.png)
+Make an account at https://gitlab.com/ and confirm with the link sent to your email. Once you're done, navigate to your settings and select the account option shown here
+
+![here](http://i.imgur.com/bezbCXc.png)
 
 Keep it up, you'll need to private token soon.
 
